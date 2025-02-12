@@ -4,7 +4,7 @@ import { TypeMenuItem, TypeStatus, QuickAccessItemType } from "../types/utils.ty
 //! Company Image Storage Url
 export const imageBucket = "jobvision"
 export const supabaseUrl =
-  "https://xsuywgifuwiufdwmpzxr.supabase.co/storage/v1/object/public/jobvision/"
+  "https://fxzxxnuakwuzxqbkfecw.supabase.co/storage/v1/object/public/jobvision/"
 export const MAX_UPLOAD_SIZE = 1024 * 1024 * 10 // 10MB
 
 //! ---------- Header Variables
